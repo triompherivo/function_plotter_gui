@@ -1,0 +1,10 @@
+[package]
+name = "function_plotter_gui"
+version = "0.1.0"
+edition = "2021"
+
+
+[dependencies]
+eframe = "0.22"   # Use the latest version if available
+egui  = "0.22"
+meval = "0.2"
